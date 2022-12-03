@@ -8,3 +8,7 @@
 body {
   background-color: var(--body-bg-color);
 }
+
+p {
+  color: var(--text-color);
+}
